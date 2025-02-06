@@ -1,0 +1,10 @@
+# Install the required dependencies for the Text-to-Image Generation project
+
+# The following libraries are required:
+
+diffusers==0.12.1   # For Stable Diffusion model
+transformers==4.28.1  # For loading and processing models
+accelerate==0.16.0  # For efficient model inference
+matplotlib==3.7.1   # For displaying the generated image
+
+
